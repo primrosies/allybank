@@ -15,25 +15,25 @@ while (true)
     string option = Console.ReadLine() ?? "";
     if (option == "4")
     {
-        Console.WriteLine("Bye bye, see you soon!");
+        Console.WriteLine("\n4.Exit\nBye bye, see you soon!");
         return;
     }
 
     switch (option)
     {
         case "1":
-            Console.WriteLine($"Your current balance is {balance:F2}");
+            Console.WriteLine($"\n1. Check balance\nYour current balance is {balance:F2}");
             break;
 
         case "2":
-            Console.WriteLine("How much do you wish to deposit: ");
+            Console.WriteLine("\n2. Deposit\nHow much do you wish to deposit: ");
             double deposit = double.Parse(Console.ReadLine() ?? "");
             balance += deposit;
             Console.WriteLine($"Deposit successful! Your current balance is {balance:F2}\n");
             break;
 
         case "3":
-            Console.WriteLine("How much do you wish to withdraw: ");
+            Console.WriteLine("\n3. Withdraw\nHow much do you wish to withdraw: ");
             double withdraw = double.Parse(Console.ReadLine() ?? "");
             if (balance < withdraw)
             {
@@ -48,7 +48,7 @@ while (true)
 
         default:
             Console.WriteLine("Invalid option!\n");
-            return;
+            break;
     }
 }
 

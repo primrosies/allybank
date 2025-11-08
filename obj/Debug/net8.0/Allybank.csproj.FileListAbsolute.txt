@@ -12,3 +12,4 @@ C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.pdb
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.genruntimeconfig.cache
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\ref\Allybank.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.sourcelink.json
