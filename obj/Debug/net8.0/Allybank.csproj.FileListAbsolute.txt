@@ -1,0 +1,14 @@
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\bin\Debug\net8.0\Allybank.exe
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\bin\Debug\net8.0\Allybank.deps.json
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\bin\Debug\net8.0\Allybank.runtimeconfig.json
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\bin\Debug\net8.0\Allybank.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\bin\Debug\net8.0\Allybank.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.AssemblyInfoInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.AssemblyInfo.cs
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.csproj.CoreCompileInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\refint\Allybank.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\Allybank.genruntimeconfig.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Allybank\obj\Debug\net8.0\ref\Allybank.dll
